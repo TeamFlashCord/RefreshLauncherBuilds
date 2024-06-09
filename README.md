@@ -1,2 +1,2 @@
-# RefreshLauncherBuilds
-Builds for the Angry Birds Refresh launcher (AIRBIRD).
+# Angry Birds Refresh Launcher
+This repository contains builds of the Angry Birds Refresh Launcher, which runs on Adobe AIR.
